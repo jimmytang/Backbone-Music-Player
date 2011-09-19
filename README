@@ -5,8 +5,6 @@ Backbone Tunes: A backbone.js demo
 - Allows queueing albums for playback
 - Plays the queue, one track at a time
 
-This is the starting project for Part II of the PeepCode screencast.
-
 USAGE
 =====
 
